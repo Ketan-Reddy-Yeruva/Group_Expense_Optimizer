@@ -1,5 +1,5 @@
 # 💸 Group Expense Optimizer
-# 💸 Cash Flow Minimizer
+<!--# 💸 Cash Flow Minimizer-->
 
 <!--**Difficulty Level:** Medium--> 
 **Domain:** Data Structures & Algorithms | Graph Algorithms | Optimization  
@@ -103,4 +103,5 @@ By completing this project, you will:
 
 ## 📄 License
 This project is open-source and available under the MIT License.
+
 
