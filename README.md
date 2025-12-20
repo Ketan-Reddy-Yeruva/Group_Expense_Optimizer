@@ -1,3 +1,4 @@
+# 💸 Group Expense Optimizer
 # 💸 Cash Flow Minimizer
 
 <!--**Difficulty Level:** Medium--> 
@@ -6,7 +7,8 @@
 ---
 
 ## 📌 Project Overview
-Cash Flow Minimizer is a system designed to **reduce the number of monetary transactions** required to settle debts among a group of individuals or entities who have borrowed money from one another.
+<!--Cash Flow Minimizer--> 
+Group Expense Optimizer is a system designed to **reduce the number of monetary transactions** required to settle debts among a group of individuals or entities who have borrowed money from one another.
 
 Instead of multiple back-and-forth payments, this project computes an **optimized settlement plan** using graph-based optimization techniques such as **Greedy Algorithms** and **Min-Cost Max-Flow**.
 
@@ -101,3 +103,4 @@ By completing this project, you will:
 
 ## 📄 License
 This project is open-source and available under the MIT License.
+
