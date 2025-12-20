@@ -1,2 +1,2 @@
-# CPU_Schedule_Simulator
-a CPU Scheduling Simulator
+# Cash_Flow_Minimizer
+a Cash Flow Minimizer
