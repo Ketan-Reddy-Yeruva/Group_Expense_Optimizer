@@ -1,6 +1,20 @@
+#ifndef PERSON_H
+#define PERSON_H
 
-struct person {
+#include <string>
+
+using namespace std;
+
+class person{
+    private:
     string name;
-    int id;
-    int balance;
-}
+    double balance;
+    public:
+    person();
+    person(string personName);
+    void addTransaction(float amount);
+    string get_name();
+    float get_balance();
+};
+
+#endif
