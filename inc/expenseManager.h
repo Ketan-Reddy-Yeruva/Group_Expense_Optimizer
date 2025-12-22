@@ -10,7 +10,7 @@ class expenseManager{
     private:
     vector<person> groupDetails;
     public:
-    expenseManager(unordered_map<string,person>);
+    expenseManager(unordered_map<string,person> mymap);
     void printOptimizedExpenses();
 };
 
